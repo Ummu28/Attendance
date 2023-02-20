@@ -1,0 +1,16 @@
+/adminAtt
+
+1-lateness = brape minit lewat
+2-current month, every single day for specific employee from "Edit Attendance" button in /employee
+3- username nad location can't be edited, only clockin and clockout
+
+
+/setting
+1- letak real adress location - contoh UITM SA
+
+tertinggal
+1- download/view file utk staff - (done)
+2- lateness & overtime (covert minutes -> hours and minutes) - (done)
+3- tolak leaveBalance based on total Days of leave (bukannya -1) - (done)
+4- edit / dashboard bagi penuh / remove calendar / display data from DB
+5- guna alert yang xde localhost (sweet alert 2)
